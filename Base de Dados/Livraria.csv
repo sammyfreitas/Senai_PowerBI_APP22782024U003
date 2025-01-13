@@ -1,0 +1,475 @@
+Nome;Idade;Gênero;Profissão;Cidade;Estado;Latitude;Longitude;Assinatura ativa;Contato Favorito
+GISANA;63;F;Autônomo(a);Belo Horizonte;MG;-19.912.998;-439.542;Sim;Telefone
+MARIDETE;58;F;Desenvolvedor(a);Fortaleza;CE;-371.839;-385.434;Sim;Telefone
+OSVANA;34;F;Desenvolvedor(a);Manaus;AM;-310.719;-600.261;Sim;Whatapp
+OSNELIA;16;F;Enfermeiro(a);Curitiba;PR;-254.284;-492.733;Sim;Email
+JENEFER;41;F;Médico(a);Fortaleza;CE;-371.839;-385.434;Sim;Whatapp
+GEISAMARA;17;F;Desenvolvedor(a);Pelotas;RS;-31.776;-523.594;Não;Email
+GISELA;69;F;Redator(a);São Luís;MA;-253.073;-443.068;Sim;Telefone
+CARLA;22;F;Desenvolvedor(a);Belo Horizonte;MG;-19.912.998;-439.542;Sim;Whatapp
+OSVANEIDE;68;F;Desenvolvedor(a);Belo Horizonte;MG;-19.912.998;-439.542;Não;Telefone
+GEISIA;33;F;Advogado(a);Pelotas;RS;-31.776;-523.594;Sim;Whatapp
+SUEIDE;36;F;Enfermeiro(a);Cuiabá;MT;-155.989;-560.949;Não;Whatapp
+ABDISIO;29;M;Advogado(a);Maceió;AL;-966.625;-357.351;Sim;Whatapp
+GILSINEI;55;M;Médico(a);Cuiabá;MT;-155.989;-560.949;Não;Telefone
+CARLEN;60;F;Autônomo(a);Guarulhos;SP;-23.413;-464.445;Sim;Telefone
+FLOZINA;68;F;Advogado(a);Confins;MG;-19.631;-439.902;Sim;Telefone
+GEISEANE;33;F;Estagiário(a);Florianópolis;SC;-275.969;-485.495;Não;Whatapp
+OSVALNIR;67;M;Desenvolvedor(a);Manaus;AM;-310.719;-600.261;Sim;Telefone
+VANGLER;47;M;Engenheiro(a);Cuiabá;MT;-155.989;-560.949;Não;Whatapp
+CAROLIN;22;F;Advogado(a);São Paulo;SP;-235.489;-466.388;Não;Whatapp
+WESLLE;65;M;Professor(a);Vila Velha;ES;-203.305;-402.922;Sim;Telefone
+ABDI;71;M;Desenvolvedor(a);Curitiba;PR;-254.284;-492.733;Não;Telefone
+SUZIAN;65;F;Desenvolvedor(a);Belo Horizonte;MG;-19.912.998;-439.542;Sim;Telefone
+ABDIAS;26;M;Desenvolvedor(a);Porto Alegre;RS;-300.277;-512.287;Não;Whatapp
+WESLIENE;48;F;Advogado(a);Ponta Grossa;PR;-250.945;-501.633;Não;Whatapp
+MARIDEISE;71;F;Desenvolvedor(a);Porto Alegre;RS;-300.277;-512.287;Sim;Telefone
+ERITO;21;M;Estagiário(a);Curitiba;PR;-254.284;-492.733;Sim;Whatapp
+ERISSON;37;M;Advogado(a);Cuiabá;MT;-155.989;-560.949;Sim;Whatapp
+ABDALLA;22;M;Desenvolvedor(a);Confins;MG;-19.631;-439.902;Sim;Whatapp
+GILMAR;24;F;Enfermeiro(a);Cuiabá;MT;-155.989;-560.949;Não;Whatapp
+OSMINDO;66;M;Professor(a);Manaus;AM;-310.719;-600.261;Sim;Telefone
+SUZILEIDE;64;F;Desempregado(a);Manaus;AM;-310.719;-600.262;Sim;Telefone
+MARIDALVA;65;F;Professor(a);Ponta Grossa;PR;-250.945;-501.633;Não;Telefone
+ERIVELTON;36;M;Desenvolvedor(a);Guarulhos;SP;-23.413;-464.445;Sim;Whatapp
+SUSIE;51;F;Médico(a);Florianópolis;SC;-275.969;-485.495;Sim;Telefone
+WESLEY;58;M;Advogado(a);Goiânia;GO;-1.682.333;-49.255;Sim;Telefone
+SUZELAINE;56;F;Professor(a);Florianópolis;SC;-275.969;-485.495;Não;Telefone
+CARLANA;69;F;Médico(a);Cuiabá;MT;-155.989;-560.949;Sim;Telefone
+GEISIAN;23;M;Médico(a);Santo André;SP;-236.666;-465.322;Sim;Whatapp
+KAROLLINY;38;F;Desempregado(a);Goiânia;GO;-1.682.333;-49.255;Sim;Whatapp
+SUEDI;21;F;Engenheiro(a);Rio Branco;AC;-9.974;-67.81;Sim;Whatapp
+ELIER;57;F;Desenvolvedor(a);Santo André;SP;-236.666;-465.322;Sim;Telefone
+GEISIANE;61;F;Desempregado(a);São Paulo;SP;-235.489;-466.388;Não;Telefone
+ABD;63;M;Professor(a);São Luís;MA;-253.073;-443.068;Sim;Telefone
+MARIBEL;47;F;Desenvolvedor(a);Olinda;PE;-800.937;-348.553;Sim;Whatapp
+OLAVIA;16;F;Autônomo(a);Santo André;SP;-236.666;-465.322;Sim;Email
+AGUIR;34;M;Advogado(a);Curitiba;PR;-254.284;-492.733;Sim;Whatapp
+CAROLINI;63;F;Desenvolvedor(a);Cuiabá;MT;-155.989;-560.949;Sim;Telefone
+ADA;33;F;Professor(a);São Paulo;SP;-235.489;-466.388;Não;Whatapp
+ABDIEL;47;M;Enfermeiro(a);Pelotas;RS;-31.776;-523.594;Não;Whatapp
+OSNILTON;50;M;Desenvolvedor(a);Confins;MG;-19.631;-439.902;Não;Telefone
+CAROLINA;50;F;Desempregado(a);Vila Velha;ES;-203.305;-402.922;Não;Telefone
+OSNILDO;37;M;Professor(a);Goiânia;GO;-1.682.333;-49.255;Não;Whatapp
+DEONILDO;50;M;Desenvolvedor(a);Goiânia;GO;-1.682.333;-49.255;Sim;Telefone
+SUZICLEIDE;52;F;Desenvolvedor(a);Salvador;BA;-1.297.111;-385.124;Sim;Telefone
+OSMINDA;29;F;Engenheiro(a);Cuiabá;MT;-155.989;-560.949;Não;Whatapp
+WESLEIANA;44;F;Enfermeiro(a);Fortaleza;CE;-371.839;-385.434;Sim;Whatapp
+GEISICLEIA;44;F;Desenvolvedor(a);Salvador;BA;-1.297.111;-385.124;Não;Whatapp
+CARLENE;70;F;Desempregado(a);Salvador;BA;-1.297.111;-385.124;Sim;Telefone
+SIDI;61;F;Médico(a);Vila Velha;ES;-203.305;-402.922;Não;Telefone
+SUZIENE;45;F;Enfermeiro(a);Londrina;PR;-232.927;-511.732;Sim;Whatapp
+ARAO;31;M;Advogado(a);Florianópolis;SC;-275.969;-485.495;Não;Whatapp
+GEISI;38;F;Desenvolvedor(a);Vila Velha;ES;-203.305;-402.922;Sim;Whatapp
+GEISA;56;F;Médico(a);Rio Branco;AC;-9.974;-67.81;Não;Telefone
+WELIGTON;38;M;Desenvolvedor(a);Manaus;AM;-310.719;-600.261;Sim;Whatapp
+OSNAN;30;M;Estagiário(a);Olinda;PE;-800.937;-348.553;Sim;Whatapp
+DANIELLE;20;F;Enfermeiro(a);São Paulo;SP;-235.489;-466.388;Sim;Whatapp
+SUZANI;17;F;Desempregado(a);Confins;MG;-19.631;-439.902;Sim;Email
+MARIDEA;62;F;Advogado(a);Goiânia;GO;-1.682.333;-49.255;Não;Telefone
+ADETE;66;M;Advogado(a);Londrina;PR;-232.927;-511.732;Sim;Telefone
+CARLEN;35;F;Músico(ista);Belo Horizonte;MG;-19.912.998;-439.542;Sim;Whatapp
+OSNI;49;M;Engenheiro(a);Florianópolis;SC;-275.969;-485.495;Sim;Whatapp
+OSVANIL;43;M;Estagiário(a);Guarulhos;SP;-23.413;-464.445;Sim;Whatapp
+WELVIS;25;M;Advogado(a);Manaus;AM;-310.719;-600.261;Sim;Whatapp
+ERLANDE;62;M;Enfermeiro(a);Confins;MG;-19.631;-439.902;Sim;Telefone
+GEISIANI;68;F;Médico(a);Pelotas;RS;-31.776;-523.594;Sim;Telefone
+WESLEIANE;55;F;Advogado(a);Cuiabá;MT;-155.989;-560.949;Não;Telefone
+MARICLEA;57;F;Desempregado(a);Porto Alegre;RS;-300.277;-512.287;Sim;Telefone
+ABDALA;45;M;Engenheiro(a);Olinda;PE;-800.937;-348.553;Sim;Whatapp
+SUZANO;40;M;Autônomo(a);Belo Horizonte;MG;-19.912.998;-439.542;Sim;Whatapp
+OSNARA;26;F;Engenheiro(a);Pelotas;RS;-31.776;-523.594;Sim;Whatapp
+JOELMIR;59;M;Desenvolvedor(a);Cuiabá;MT;-155.989;-560.949;Sim;Telefone
+JURASSI;64;M;Desenvolvedor(a);Londrina;PR;-232.927;-511.732;Sim;Telefone
+ABDALLA;36;M;Professor(a);Maceió;AL;-966.625;-357.351;Não;Whatapp
+SUEDIO;47;M;Engenheiro(a);São Luís;MA;-253.073;-443.068;Não;Whatapp
+WEMBLEY;48;M;Desenvolvedor(a);Londrina;PR;-232.927;-511.732;Sim;Whatapp
+GEISIARA;32;F;Médico(a);Rio Branco;AC;-9.974; -67.81;Não;Whatapp
+CAROLINE;55;F;Estagiário(a);Porto Alegre;RS;-300.277;-512.287;Não;Telefone
+OSVALDIRA;48;F;Médico(a);Porto Alegre;RS;-300.277;-512.287;Sim;Whatapp
+OSNILSON;70;M;Músico(ista);Confins;MG;-19.631;-439.902;Sim;Telefone
+KARITTA;54;F;Advogado(a);Santo André;SP;-236.666;-465.322;Sim;Telefone
+WALISSON;67;M;Músico(ista);Confins;MG;-19.631;-439.902;Não;Telefone
+OSVALDINO;22;M;Desenvolvedor(a);Salvador;BA;-1.297.111;-385.124;Sim;Whatapp
+BRIGIDA;71;F;Professor(a);Rio Branco;AC;-9.974; -67.81;Não;Telefone
+OSNAR;62;M;Médico(a);Goiânia;GO;-1.682.333;-49.255;Não;Telefone
+ALINE;60;F;Desempregado(a);Ponta Grossa;PR;-250.945;-501.633;Sim;Telefone
+WEMILLY;49;F;Advogado(a);Goiânia;GO;-1.682.333;-49.255;Sim;Whatapp
+JULLY;44;F;Enfermeiro(a);Londrina;PR;-232.927;-511.732;Não;Whatapp
+WEMILA;45;F;Médico(a);Curitiba;PR;-254.284;-492.733;Sim;Whatapp
+GELMIRES;63;M;Desenvolvedor(a);São Paulo;SP;-235.489;-466.388;Sim;Telefone
+JULIO;46;M;Estagiário(a);Santo André;SP;-236.666;-465.322;Sim;Whatapp
+SIDI;24;F;Médico(a);Florianópolis;SC;-275.969;-485.495;Sim;Whatapp
+MARIDITE;18;F;Desenvolvedor(a);Ponta Grossa;PR;-250.945;-501.633;Sim;Email
+MARIDALVA;40;F;Desempregado(a);Curitiba;PR;-254.284;-492.733;Não;Whatapp
+WEMILY;34;F;Engenheiro(a);Olinda;PE;-800.937;-348.553;Não;Whatapp
+SUZI;18;F;Desenvolvedor(a);Goiânia;GO;-1.682.333;-49.255;Sim;Email
+GABRIELA;62;F;Estagiário(a);Vila Velha;ES;-203.305;-402.922;Não;Telefone
+SUEDJA;27;F;Desenvolvedor(a);Olinda;PE;-800.937;-348.553;Sim;Whatapp
+CAROLINI;26;F;Desempregado(a);São Paulo;SP;-235.489;-466.388;Sim;Whatapp
+ABDENAGO;30;M;Professor(a);Confins;MG;-19.631;-439.902;Sim;Whatapp
+GEISIANI;33;F;Desenvolvedor(a);Maceió;AL;-966.625;-357.351;Sim;Whatapp
+KARISE;48;F;Desenvolvedor(a);Santo André;SP;-236.666;-465.322;Não;Whatapp
+KAROLLINY;51;F;Desenvolvedor(a);Guarulhos;SP;-23.413;-464.445;Sim;Telefone
+RICELI;58;F;Advogado(a);Maceió;AL;-966.625;-357.351;Sim;Telefone
+OSVANDIR;61;M;Desenvolvedor(a);São Luís;MA;-253.073;-443.068;Não;Telefone
+OSNI;28;M;Desempregado(a);Maceió;AL;-966.625;-357.351;Sim;Whatapp
+OSVAN;50;M;Advogado(a);Vila Velha;ES;-203.305;-402.922;Sim;Telefone
+OSNILDO;63;M;Arquiteto(a);Rio Branco;AC;-9.974;-67.81;Não;Telefone
+OSMINO;56;M;Autônomo(a);Salvador;BA;-1.297.111;-385.124;Não;Telefone
+CAROLLINE;44;F;Médico(a);Manaus;AM;-310.719;-600.261;Sim;Whatapp
+CAROLANI;51;F;Professor(a);Goiânia;GO;-1.682.333;-49.255;Sim;Telefone
+SUEDNEY;43;M;Professor(a);Rio Branco;AC;-9.974;-67.81;Sim;Whatapp
+MARIDELSON;32;M;Desenvolvedor(a);Londrina;PR;-232.927;-511.732;Sim;Whatapp
+GEISIEL;49;M;Professor(a);Florianópolis;SC;-275.969;-485.495;Não;Whatapp
+DELMINA;65;F;Arquiteto(a);Cuiabá;MT;-155.989;-560.949;Sim;Telefone
+SUZIELE;62;F;Enfermeiro(a);Manaus;AM;-310.719;-600.261;Sim;Telefone
+GILSIMARA;23;F;Desempregado(a);Maceió;AL;-966.625;-357.351;Sim;Whatapp
+ERINEIDE;55;F;Autônomo(a);Porto Alegre;RS;-300.277;-512.287;Sim;Telefone
+ERIVALDO;49;M;Professor(a);Cuiabá;MT;-155.989;-560.949;Sim;Whatapp
+WESLEY;64;M;Arquiteto(a);Pelotas;RS;-31.776;-523.594;Sim;Telefone
+WESLEN;67;M;Engenheiro(a);Fortaleza;CE;-371.839;-385.434;Sim;Telefone
+OSNEIDE;46;F;Desenvolvedor(a);Santo André;SP;-236.666;-465.322;Não;Whatapp
+OSVALMIR;37;M;Advogado(a);Santo André;SP;-236.666;-465.322;Sim;Whatapp
+KARITON;32;M;Estagiário(a);Maceió;AL;-966.625;-357.351;Sim;Whatapp
+ERIVELTON;41;M;Engenheiro(a);Porto Alegre;RS;-300.277;-512.287;Sim;Whatapp
+OSNIL;52;M;Professor(a);Belo Horizonte;MG;-19.912.998;-439.542;Sim;Telefone
+SUZIA;24;F;Autônomo(a);São Luís;MA;-253.073;-443.068;Sim;Whatapp
+GILFRAN;63;M;Redator(a);São Luís;MA;-253.073;-443.068;Sim;Telefone
+WELVIS;19;M;Desenvolvedor(a);São Paulo;SP;-235.489;-466.388;Sim;Email
+JALMIRA;20;F;Advogado(a);Olinda;PE;-800.937;-348.553;Sim;Whatapp
+GEISABEL;26;F;Desenvolvedor(a);Manaus;AM;-310.719;-600.261;Sim;Whatapp
+WESLLANY;17;F;Professor(a);Ponta Grossa;PR;-250.945;-501.633;Sim;Email
+KAROLLAYNE;33;F;Engenheiro(a);Rio Branco;AC;-9.974; -67.81;Sim;Whatapp
+VANISI;57;F;Desenvolvedor(a);Rio Branco;AC;-9.974; -67.82;Sim;Telefone
+ZILA;20;F;Engenheiro(a);Rio Branco;AC;-9.974; -67.83;Sim;Whatapp
+WESLEIANA;42;F;Desenvolvedor(a);Maceió;AL;-966.625;-357.351;Sim;Whatapp
+WESLLAYNE;54;F;Professor(a);Vila Velha;ES;-203.305;-402.922;Sim;Telefone
+SUEKO;32;F;Enfermeiro(a);Santo André;SP;-236.666;-465.322;Não;Whatapp
+SUZETE;55;F;Engenheiro(a);Manaus;AM;-310.719;-600.261;Sim;Telefone
+SUZENE;37;F;Desempregado(a);Manaus;AM;-310.719;-600.262;Sim;Whatapp
+OSVALDINEI;53;M;Advogado(a);Curitiba;PR;-254.284;-492.733;Sim;Telefone
+ZILA;56;F;Desenvolvedor(a);Fortaleza;CE;-371.839;-385.434;Sim;Telefone
+CARLI;64;F;Professor(a);Rio Branco;AC;-9.974; -67.81;Não;Telefone
+HERING;24;M;Desenvolvedor(a);Olinda;PE;-800.937;-348.553;Sim;Whatapp
+ABDAO;31;M;Desempregado(a);Guarulhos;SP;-23.413;-464.445;Sim;Whatapp
+GEISEMARA;61;F;Desenvolvedor(a);Londrina;PR;-232.927;-511.732;Sim;Telefone
+JESIELMA;66;F;Desempregado(a);São Paulo;SP;-235.489;-466.388;Sim;Telefone
+ERINTON;16;M;Desenvolvedor(a);Fortaleza;CE;-371.839;-385.434;Sim;Email
+MARIDENE;52;F;Médico(a);Londrina;PR;-232.927;-511.732;Sim;Telefone
+ERLAINE;48;F;Desempregado(a);Salvador;BA;-1.297.111;-385.124;Sim;Whatapp
+OSNI;16;M;Advogado(a);Pelotas;RS;-31.776;-523.594;Sim;Email
+WESLAINE;35;F;Músico(ista);Rio Branco;AC;-9.974; -67.81;Não;Whatapp
+SUZETTE;15;F;Desempregado(a);Londrina;PR;-232.927;-511.732;Sim;Email
+KARIELLY;68;F;Desempregado(a);Pelotas;RS;-31.776;-523.594;Não;Telefone
+OSVANO;39;M;Desenvolvedor(a);Olinda;PE;-800.937;-348.553;Sim;Whatapp
+GEISE;58;M;Autônomo(a);Maceió;AL;-966.625;-357.351;Não;Telefone
+OSNETE;56;F;Advogado(a);São Paulo;SP;-235.489;-466.388;Não;Telefone
+CAROLANE;64;F;Advogado(a);Guarulhos;SP;-23.413;-464.445;Sim;Telefone
+MARIDA;58;F;Professor(a);Olinda;PE;-800.937;-348.553;Não;Telefone
+ABADIAS;56;M;Professor(a);Maceió;AL;-966.625;-357.351;Não;Telefone
+WESLLE;61;M;Redator(a);Olinda;PE;-800.937;-348.553;Sim;Telefone
+WESLIN;71;M;Enfermeiro(a);Santo André;SP;-236.666;-465.322;Sim;Telefone
+MARICLEUMA;50;F;Médico(a);Rio Branco;AC;-9.974;  -67.81;Não;Telefone
+SAUL;28;M;Engenheiro(a);Vila Velha;ES;-203.305;-402.922;Não;Whatapp
+WALISON;23;M;Professor(a);Ponta Grossa;PR;-250.945;-501.633;Sim;Whatapp
+SUEDNA;39;F;Médico(a);Belo Horizonte;MG;-19.912.998;-439.542;Não;Whatapp
+CAROLINI;35;F;Professor(a);Guarulhos;SP;-23.413;-464.445;Sim;Whatapp
+OSVANIR;25;M;Desempregado(a);Pelotas;RS;-31.776;-523.594;Sim;Whatapp
+HERINQUE;55;M;Advogado(a);Ponta Grossa;PR;-250.945;-501.633;Não;Telefone
+ABDIA;58;M;Desenvolvedor(a);Cuiabá;MT;-155.989;-560.949;Sim;Telefone
+ABDENOR;18;M;Desenvolvedor(a);Goiânia;GO;-1.682.333;-49.255;Não;Email
+SUELI;41;F;Desenvolvedor(a);Curitiba;PR;-254.284;-492.733;Sim;Whatapp
+WESLEIDE;25;F;Músico(ista);Manaus;AM;-310.719;-600.261;Não;Whatapp
+JOELMIR;46;M;Desenvolvedor(a);Goiânia;GO;-1.682.333;-49.255;Não;Whatapp
+OSVANILDE;49;F;Médico(a);Olinda;PE;-800.937;-348.553;Sim;Whatapp
+ABDER;19;M;Professor(a);Vila Velha;ES;-203.305;-402.922;Sim;Email
+ERIVAN;64;M;Advogado(a);Guarulhos;SP;-23.413;-464.445;Sim;Telefone
+GEISIANA;17;F;Desenvolvedor(a);São Luís;MA;-253.073;-443.068;Sim;Email
+ERINALDO;63;M;Médico(a);Confins;MG;-19.631;-439.902;Sim;Telefone
+WELINGTON;30;M;Desenvolvedor(a);Belo Horizonte;MG;-19.912.998;-439.542;Sim;Whatapp
+KARITA;41;F;Enfermeiro(a);Olinda;PE;-800.937;-348.553;Sim;Whatapp
+WESLLEN;58;M;Enfermeiro(a);Porto Alegre;RS;-300.277;-512.287;Sim;Telefone
+OSVALINA;66;F;Desempregado(a);Fortaleza;CE;-371.839;-385.434;Sim;Telefone
+GILSIMAR;65;M;Desenvolvedor(a);Curitiba;PR;-254.284;-492.733;Sim;Telefone
+ERIVELTO;67;M;Advogado(a);Ponta Grossa;PR;-250.945;-501.633;Não;Telefone
+ERIO;19;M;Desenvolvedor(a);Maceió;AL;-966.625;-357.351;Sim;Email
+JONATHN;45;M;Advogado(a);Londrina;PR;-232.927;-511.732;Sim;Whatapp
+MARICLEIDE;30;F;Desenvolvedor(a);Vila Velha;ES;-203.305;-402.922;Não;Whatapp
+SUEDILSON;51;M;Engenheiro(a);Manaus;AM;-310.719;-600.261;Sim;Telefone
+OSVALDIR;55;M;Desenvolvedor(a);Rio Branco;AC;-9.974; -67.81;Sim;Telefone
+ERLANDE;16;M;Professor(a);Ponta Grossa;PR;-250.945;-501.633;Sim;Email
+SUELE;60;F;Desempregado(a);Ponta Grossa;PR;-250.945;-501.633;Sim;Telefone
+OSVANIRA;69;F;Estagiário(a);Curitiba;PR;-254.284;-492.733;Sim;Telefone
+SINOBILINO;63;M;Professor(a);Salvador;BA;-1.297.111;-385.124;Não;Telefone
+OSMIRA;55;F;Arquiteto(a);Pelotas;RS;-31.776;-523.594;Sim;Telefone
+SUELEN;62;F;Autônomo(a);Maceió;AL;-966.625;-357.351;Sim;Telefone
+GISELE;17;F;Desempregado(a);São Luís;MA;-253.073;-443.068;Sim;Email
+NILVA;69;M;Advogado(a);São Luís;MA;-253.073;-443.068;Não;Telefone
+SUELANE;55;F;Músico(ista);Confins;MG;-19.631;-439.902;Sim;Telefone
+ERISTON;22;M;Advogado(a);Londrina;PR;-232.927;-511.732;Não;Whatapp
+WEMILLY;61;F;Professor(a);Salvador;BA;-1.297.111;-385.124;Sim;Telefone
+WELITON;63;M;Enfermeiro(a);Florianópolis;SC;-275.969;-485.495;Não;Telefone
+WILI;54;M;Desenvolvedor(a);Fortaleza;CE;-371.839;-385.434;Não;Telefone
+OSVALINO;27;M;Desenvolvedor(a);São Paulo;SP;-235.489;-466.388;Sim;Whatapp
+WESLLA;25;F;Enfermeiro(a);Guarulhos;SP;-23.413;-464.445;Sim;Whatapp
+SUZE;54;F;Desenvolvedor(a);Vila Velha;ES;-203.305;-402.922;Sim;Telefone
+KAROLLEN;36;F;Desempregado(a);Fortaleza;CE;-371.839;-385.434;Não;Whatapp
+ABDIEL;53;M;Desenvolvedor(a);São Paulo;SP;-235.489;-466.388;Não;Telefone
+SUEDINA;61;F;Desenvolvedor(a);Cuiabá;MT;-155.989;-560.949;Sim;Telefone
+CAROLLINA;65;F;Desempregado(a);Confins;MG;-19.631;-439.902;Sim;Telefone
+OSNILDA;42;F;Desempregado(a);Pelotas;RS;-31.776;-523.594;Não;Whatapp
+WESLENE;65;F;Médico(a);Goiânia;GO;-1.682.333;-49.255;Sim;Telefone
+GELSOMINA;24;F;Médico(a);Londrina;PR;-232.927;-511.732;Sim;Whatapp
+HERINSON;49;M;Desenvolvedor(a);Rio Branco;AC;-9.974;-67.81;Não;Whatapp
+ABDENICO;57;M;Advogado(a);Belo Horizonte;MG;-19.912.998;-439.542;Sim;Telefone
+ENDRIQUE;23;M;Engenheiro(a);Curitiba;PR;-254.284;-492.733;Sim;Whatapp
+JULIVALDO;64;M;Desempregado(a);Salvador;BA;-1.297.111;-385.124;Não;Telefone
+CAROLINI;44;F;Advogado(a);Fortaleza;CE;-371.839;-385.434;Não;Whatapp
+SUZIANI;25;F;Desempregado(a);Maceió;AL;-966.625;-357.351;Sim;Whatapp
+CARLENO;50;M;Médico(a);São Paulo;SP;-235.489;-466.388;Não;Telefone
+SUEDE;32;M;Redator(a);Fortaleza;CE;-371.839;-385.434;Não;Whatapp
+GISLANE;35;F;Engenheiro(a);Confins;MG;-19.631;-439.902;Sim;Whatapp
+KARISTON;25;M;Autônomo(a);Santo André;SP;-236.666;-465.322;Não;Whatapp
+SUILAN;43;F;Advogado(a);São Luís;MA;-253.073;-443.068;Sim;Whatapp
+MARICLEIA;62;F;Desenvolvedor(a);Vila Velha;ES;-203.305;-402.922;Não;Telefone
+CARLENA;62;F;Advogado(a);Londrina;PR;-232.927;-511.732;Sim;Telefone
+ABDENIGO;55;M;Desenvolvedor(a);Guarulhos;SP;-23.413;-464.445;Não;Telefone
+WEMESON;64;M;Desenvolvedor(a);Guarulhos;SP;-23.413;-464.446;Sim;Telefone
+SUZIMARA;56;F;Médico(a);Fortaleza;CE;-371.839;-385.434;Sim;Telefone
+OSNI;44;M;Arquiteto(a);Cuiabá;MT;-155.989;-560.949;Sim;Whatapp
+WEMIA;17;F;Professor(a);Olinda;PE;-800.937;-348.553;Sim;Email
+JOELMO;56;M;Desenvolvedor(a);Ponta Grossa;PR;-250.945;-501.633;Não;Telefone
+VALENTINA;43;F;Estagiário(a);Vila Velha;ES;-203.305;-402.922;Não;Whatapp
+MARICELE;31;F;Estagiário(a);Fortaleza;CE;-371.839;-385.434;Sim;Whatapp
+GISELA;15;F;Desempregado(a);Pelotas;RS;-31.776;-523.594;Sim;Email
+SUZIANA;43;F;Músico(ista);Confins;MG;-19.631;-439.902;Sim;Whatapp
+KARITA;44;F;Médico(a);Salvador;BA;-1.297.111;-385.124;Não;Whatapp
+ERLANDERSON;68;M;Desenvolvedor(a);Rio Branco;AC;-9.974; -67.81;Sim;Telefone
+WUESLLEY;28;M;Redator(a);Santo André;SP;-236.666;-465.322;Sim;Whatapp
+SUZILANE;33;F;Desenvolvedor(a);São Paulo;SP;-235.489;-466.388;Sim;Whatapp
+GISELI;34;F;Músico(ista);Pelotas;RS;-31.776;-523.594;Sim;Whatapp
+GILSIANE;63;F;Músico(ista);Londrina;PR;-232.927;-511.732;Sim;Telefone
+OSNILDE;41;F;Desenvolvedor(a);Florianópolis;SC;-275.969;-485.495;Sim;Whatapp
+WESLIANA;25;F;Músico(ista);Cuiabá;MT;-155.989;-560.949;Sim;Whatapp
+CARLEANE;65;F;Desenvolvedor(a);São Paulo;SP;-235.489;-466.388;Sim;Telefone
+OSVALTER;52;M;Desenvolvedor(a);Ponta Grossa;PR;-250.945;-501.633;Sim;Telefone
+GELOIR;71;M;Médico(a);Pelotas;RS;-31.776;-523.594;Sim;Telefone
+GISLAINE;58;F;Desenvolvedor(a);Guarulhos;SP;-23.413;-464.445;Sim;Telefone
+OSMINA;24;F;Desempregado(a);Guarulhos;SP;-23.413;-464.445;Sim;Whatapp
+GILMAR;56;M;Arquiteto(a);Santo André;SP;-236.666;-465.322;Sim;Telefone
+ABADE;31;M;Professor(a);Maceió;AL;-966.625;-357.351;Não;Whatapp
+MARICLENE;42;F;Desenvolvedor(a);São Paulo;SP;-235.489;-466.388;Sim;Whatapp
+GILSE;32;F;Advogado(a);Fortaleza;CE;-371.839;-385.434;Sim;Whatapp
+SUZELI;23;F;Desenvolvedor(a);Ponta Grossa;PR;-250.945;-501.633;Sim;Whatapp
+MARIDIA;29;F;Redator(a);Vila Velha;ES;-203.305;-402.922;Sim;Whatapp
+SUZEL;36;F;Médico(a);Belo Horizonte;MG;-19.912.998;-439.542;Sim;Whatapp
+CAROLINE;34;F;Redator(a);Salvador;BA;-1.297.111;-385.124;Sim;Whatapp
+KAROLLYN;36;F;Médico(a);São Luís;MA;-253.073;-443.068;Não;Whatapp
+CAROLLINE;60;F;Desempregado(a);Goiânia;GO;-1.682.333;-49.255;Não;Telefone
+WELVISON;61;M;Desenvolvedor(a);Confins;MG;-19.631;-439.902;Sim;Telefone
+HERIQUETA;43;F;Desenvolvedor(a);Olinda;PE;-800.937;-348.553;Sim;Whatapp
+SUZELI;38;F;Professor(a);Porto Alegre;RS;-300.277;-512.287;Sim;Whatapp
+SUEDIA;38;F;Desenvolvedor(a);São Paulo;SP;-235.489;-466.388;Sim;Whatapp
+ERLA;56;F;Desenvolvedor(a);Guarulhos;SP;-23.413;-464.445;Não;Telefone
+OSMIR;69;M;Desenvolvedor(a);Goiânia;GO;-1.682.333;-49.255;Sim;Telefone
+ERITA;55;F;Desenvolvedor(a);Curitiba;PR;-254.284;-492.733;Sim;Telefone
+WEMES;67;M;Desempregado(a);Londrina;PR;-232.927;-511.732;Sim;Telefone
+WEMBERSON;67;M;Médico(a);Florianópolis;SC;-275.969;-485.495;Não;Telefone
+MARICELI;71;F;Advogado(a);Florianópolis;SC;-275.969;-485.495;Sim;Telefone
+GEISSA;69;F;Engenheiro(a);Cuiabá;MT;-155.989;-560.949;Não;Telefone
+SUZIELE;32;F;Advogado(a);Olinda;PE;-800.937;-348.553;Não;Whatapp
+CARLI;29;M;Advogado(a);São Luís;MA;-253.073;-443.068;Não;Whatapp
+GEISIBEL;31;F;Desempregado(a);Salvador;BA;-1.297.111;-385.124;Sim;Whatapp
+WEMISSON;47;M;Enfermeiro(a);Olinda;PE;-800.937;-348.553;Sim;Whatapp
+WELIDA;45;F;Desenvolvedor(a);Fortaleza;CE;-371.839;-385.434;Não;Whatapp
+SUZIELEN;20;F;Professor(a);São Luís;MA;-253.073;-443.068;Sim;Whatapp
+GILSOMAR;39;M;Desenvolvedor(a);Olinda;PE;-800.937;-348.553;Sim;Whatapp
+GEISIEL;18;M;Advogado(a);São Paulo;SP;-235.489;-466.388;Não;Email
+MARICLECIO;45;M;Desenvolvedor(a);Santo André;SP;-236.666;-465.322;Não;Whatapp
+OSVANILSON;58;M;Desempregado(a);Rio Branco;AC;-9.974; -67.81;Sim;Telefone
+WESLISON;42;M;Desenvolvedor(a);Curitiba;PR;-254.284;-492.733;Não;Whatapp
+GELSI;56;M;Desenvolvedor(a);Salvador;BA;-1.297.111;-385.124;Sim;Telefone
+MARIDELMA;33;F;Advogado(a);Santo André;SP;-236.666;-465.322;Sim;Whatapp
+MARICLESIA;54;F;Advogado(a);Vila Velha;ES;-203.305;-402.922;Sim;Telefone
+SUEDE;62;F;Desenvolvedor(a);Rio Branco;AC;-9.974;  -67.81;Sim;Telefone
+GILSIVAN;51;M;Advogado(a);Confins;MG;-19.631;-439.902;Sim;Telefone
+JOELITON;53;M;Desenvolvedor(a);Porto Alegre;RS;-300.277;-512.287;Sim;Telefone
+WEMER;17;M;Desenvolvedor(a);Ponta Grossa;PR;-250.945;-501.633;Sim;Email
+GELSINO;24;M;Desenvolvedor(a);Rio Branco;AC;-9.974;-67.81;Não;Whatapp
+OSMINIA;35;F;Engenheiro(a);Florianópolis;SC;-275.969;-485.495;Sim;Whatapp
+MARIDELIA;32;F;Desenvolvedor(a);Porto Alegre;RS;-300.277;-512.287;Sim;Whatapp
+SUZELI;45;F;Desenvolvedor(a);Manaus;AM;-310.719;-600.261;Não;Whatapp
+KAROLLAYNE;48;F;Desenvolvedor(a);Cuiabá;MT;-155.989;-560.949;Sim;Whatapp
+ABDERMAN;46;M;Músico(ista);Londrina;PR;-232.927;-511.732;Não;Whatapp
+OSVANIO;60;M;Autônomo(a);Guarulhos;SP;-23.413;-464.445;Sim;Telefone
+WESLAINY;59;F;Desenvolvedor(a);Fortaleza;CE;-371.839;-385.434;Sim;Telefone
+CARLAS;41;F;Desenvolvedor(a);Rio Branco;AC;-9.974;-67.81;Sim;Whatapp
+MARICLECIA;45;F;Desempregado(a);São Paulo;SP;-235.489;-466.388;Não;Whatapp
+GILZA;20;F;Engenheiro(a);Belo Horizonte;MG;-19.912.998;-439.542;Sim;Whatapp
+SUEDSON;23;M;Desempregado(a);Maceió;AL;-966.625;-357.351;Sim;Whatapp
+RICHARLISSON;66;M;Desenvolvedor(a);Fortaleza;CE;-371.839;-385.434;Sim;Telefone
+OSVANIA;40;F;Professor(a);São Luís;MA;-253.073;-443.068;Sim;Whatapp
+WEMBER;47;M;Advogado(a);Ponta Grossa;PR;-250.945;-501.633;Não;Whatapp
+WEMERSON;45;M;Desenvolvedor(a);Confins;MG;-19.631;-439.902;Sim;Whatapp
+MARICELE;50;F;Desempregado(a);Goiânia;GO;-1.682.333;-49.255;Não;Telefone
+WELINTON;20;M;Desenvolvedor(a);Florianópolis;SC;-275.969;-485.495;Sim;Whatapp
+UESLEI;58;M;Desenvolvedor(a);Vila Velha;ES;-203.305;-402.922;Sim;Telefone
+CAROLLINA;18;F;Músico(ista);Fortaleza;CE;-371.839;-385.434;Sim;Email
+ABADIA;63;F;Desenvolvedor(a);São Paulo;SP;-235.489;-466.388;Sim;Telefone
+WESLLAYNE;28;F;Desenvolvedor(a);Rio Branco;AC;-9.974;-67.81;Não;Whatapp
+CARLEANDRO;52;M;Desempregado(a);Ponta Grossa;PR;-250.945;-501.633;Sim;Telefone
+WESLLEY;23;M;Advogado(a);Curitiba;PR;-254.284;-492.733;Sim;Whatapp
+ERLANA;36;F;Desenvolvedor(a);Cuiabá;MT;-155.989;-560.949;Sim;Whatapp
+CAROLINA;19;F;Redator(a);Porto Alegre;RS;-300.277;-512.287;Sim;Email
+ANALICE;59;F;Professor(a);Salvador;BA;-1.297.111;-385.124;Não;Telefone
+ABDENIO;52;M;Professor(a);Pelotas;RS;-31.776;-523.594;Sim;Telefone
+WESLEN;35;M;Desenvolvedor(a);Pelotas;RS;-31.776;-523.594;Sim;Whatapp
+MARIDELIA;54;F;Professor(a);Belo Horizonte;MG;-19.912.998;-439.542;Sim;Telefone
+CARIVALDO;28;M;Desenvolvedor(a);Manaus;AM;-310.719;-600.261;Sim;Whatapp
+GILSON;36;M;Desenvolvedor(a);Londrina;PR;-232.927;-511.732;Sim;Whatapp
+SILANA;40;F;Músico(ista);Porto Alegre;RS;-300.277;-512.287;Sim;Whatapp
+JULLY;52;F;Desenvolvedor(a);Confins;MG;-19.631;-439.902;Sim;Telefone
+KTLIN;26;F;Desenvolvedor(a);Belo Horizonte;MG;-19.912.998;-439.542;Não;Whatapp
+SUZENI;20;F;Professor(a);Maceió;AL;-966.625;-357.351;Sim;Whatapp
+SUZIMAR;57;F;Desenvolvedor(a);Curitiba;PR;-254.284;-492.733;Sim;Telefone
+ERISVALDO;28;M;Desenvolvedor(a);Guarulhos;SP;-23.413;-464.445;Não;Whatapp
+ABDIEL;17;M;Desenvolvedor(a);Cuiabá;MT;-155.989;-560.949;Não;Email
+KAROLLAYNE;30;F;Desenvolvedor(a);São Paulo;SP;-235.489;-466.388;Não;Whatapp
+ERLANDES;15;M;Desenvolvedor(a);Confins;MG;-19.631;-439.902;Sim;Email
+KARISA;69;F;Desenvolvedor(a);Florianópolis;SC;-275.969;-485.495;Sim;Telefone
+CAROLLINE;43;F;Advogado(a);Olinda;PE;-800.937;-348.553;Sim;Whatapp
+WEMILY;40;F;Professor(a);Fortaleza;CE;-371.839;-385.434;Sim;Whatapp
+CAROLAINE;47;F;Engenheiro(a);Ponta Grossa;PR;-250.945;-501.633;Não;Whatapp
+OSVANDER;36;M;Engenheiro(a);Porto Alegre;RS;-300.277;-512.287;Não;Whatapp
+WESLLEN;68;M;Autônomo(a);Salvador;BA;-1.297.111;-385.124;Não;Telefone
+GEISE;41;F;Desempregado(a);Rio Branco;AC;-9.974;-67.81;Sim;Whatapp
+ERIVANIA;19;F;Advogado(a);Salvador;BA;-1.297.111;-385.124;Sim;Email
+LIDACI;42;F;Desenvolvedor(a);Vila Velha;ES;-203.305;-402.922;Não;Whatapp
+SUELLEN;27;F;Advogado(a);Goiânia;GO;-1.682.333;-49.255;Não;Whatapp
+ABADIO;22;M;Desenvolvedor(a);Manaus;AM;-310.719;-600.261;Não;Whatapp
+SUEDI;19;F;Advogado(a);Salvador;BA;-1.297.111;-385.124;Não;Email
+OSVANILDO;51;M;Desenvolvedor(a);Porto Alegre;RS;-300.277;-512.287;Sim;Telefone
+SIDA;19;F;Advogado(a);São Luís;MA;-253.073;-443.068;Sim;Email
+WESLENY;64;F;Desenvolvedor(a);Goiânia;GO;-1.682.333;-49.255;Sim;Telefone
+OSVANE;15;M;Desenvolvedor(a);Confins;MG;-19.631;-439.902;Sim;Email
+ABDIEL;70;M;Desenvolvedor(a);Porto Alegre;RS;-300.277;-512.287;Não;Telefone
+WEMBLEY;58;M;Advogado(a);Pelotas;RS;-31.776;-523.594;Sim;Telefone
+GILSIA;15;F;Redator(a);Maceió;AL;-966.625;-357.351;Sim;Email
+OSNAN;36;M;Enfermeiro(a);Manaus;AM;-310.719;-600.261;Não;Whatapp
+GELMINA;18;F;Advogado(a);Confins;MG;-19.631;-439.902;Não;Email
+WEMILLE;32;F;Advogado(a);Guarulhos;SP;-23.413;-464.445;Sim;Whatapp
+OSMIRIA;17;F;Médico(a);Cuiabá;MT;-155.989;-560.949;Sim;Email
+ERIQUES;45;M;Desenvolvedor(a);Florianópolis;SC;-275.969;-485.495;Não;Whatapp
+ABADI;59;M;Médico(a);Maceió;AL;-966.625;-357.351;Não;Telefone
+OSVALDO;62;M;Advogado(a);Ponta Grossa;PR;-250.945;-501.633;Não;Telefone
+CARLIEL;21;F;Estagiário(a);Manaus;AM;-310.719;-600.261;Sim;Whatapp
+MARICELI;22;F;Desenvolvedor(a);Santo André;SP;-236.666;-465.322;Sim;Whatapp
+JAILON;26;M;Estagiário(a);Ponta Grossa;PR;-250.945;-501.633;Sim;Whatapp
+ZELANDIA;23;F;Desempregado(a);Vila Velha;ES;-203.305;-402.922;Sim;Whatapp
+ERISSON;28;M;Professor(a);Belo Horizonte;MG;-19.912.998;-439.542;Sim;Whatapp
+WESLEIA;27;F;Desenvolvedor(a);Porto Alegre;RS;-300.277;-512.287;Não;Whatapp
+SUZICLEIA;32;F;Arquiteto(a);Florianópolis;SC;-275.969;-485.495;Sim;Whatapp
+GELSIRA;21;F;Autônomo(a);Florianópolis;SC;-275.969;-485.495;Sim;Whatapp
+KARISSON;49;M;Advogado(a);Curitiba;PR;-254.284;-492.733;Não;Whatapp
+WEMENSON;37;M;Redator(a);Porto Alegre;RS;-300.277;-512.287;Sim;Whatapp
+WERISON;49;M;Enfermeiro(a);Fortaleza;CE;-371.839;-385.434;Não;Whatapp
+OSVANDA;47;F;Engenheiro(a);Londrina;PR;-232.927;-511.732;Sim;Whatapp
+GELSINA;26;F;Enfermeiro(a);Pelotas;RS;-31.776;-523.594;Sim;Whatapp
+SUZEN;24;F;Desenvolvedor(a);Salvador;BA;-1.297.111;-385.124;Não;Whatapp
+ABDA;57;F;Desempregado(a);Porto Alegre;RS;-300.277;-512.287;Sim;Telefone
+SOLANDE;54;F;Desenvolvedor(a);Olinda;PE;-800.937;-348.553;Sim;Telefone
+OSMIRO;35;M;Engenheiro(a);Florianópolis;SC;-275.969;-485.495;Não;Whatapp
+SUZARA;70;F;Redator(a);Confins;MG;-19.631;-439.902;Não;Telefone
+OSMIRIO;17;M;Desenvolvedor(a);Santo André;SP;-236.666;-465.322;Não;Email
+GEISEBEL;38;F;Desenvolvedor(a);Ponta Grossa;PR;-250.945;-501.633;Sim;Whatapp
+CARITAS;69;F;Desempregado(a);Porto Alegre;RS;-300.277;-512.287;Não;Telefone
+OSVANDO;26;M;Redator(a);Santo André;SP;-236.666;-465.322;Sim;Whatapp
+GEISICA;55;F;Engenheiro(a);Guarulhos;SP;-23.413;-464.445;Sim;Telefone
+WENA;67;F;Desempregado(a);Ponta Grossa;PR;-250.945;-501.633;Não;Telefone
+WANDERLAN;50;M;Professor(a);Santo André;SP;-236.666;-465.322;Sim;Telefone
+OSVANIR;39;M;Desempregado(a);Florianópolis;SC;-275.969;-485.495;Não;Whatapp
+ABDNEGO;69;M;Desenvolvedor(a);Belo Horizonte;MG;-19.912.998;-439.542;Não;Telefone
+MARIDIANE;27;F;Advogado(a);Vila Velha;ES;-203.305;-402.922;Não;Whatapp
+WESLES;22;M;Desempregado(a);São Luís;MA;-253.073;-443.068;Sim;Whatapp
+JALMIRO;19;M;Advogado(a);Curitiba;PR;-254.284;-492.733;Sim;Email
+OSNIRA;70;F;Engenheiro(a);Ponta Grossa;PR;-250.945;-501.633;Não;Telefone
+WESLEIANE;59;F;Professor(a);Santo André;SP;-236.666;-465.322;Não;Telefone
+CAROLINE;29;F;Músico(ista);Goiânia;GO;-1.682.333;-49.255;Sim;Whatapp
+CAROLINE;35;F;Desenvolvedor(a);Goiânia;GO;-1.682.333;-49.255;Sim;Whatapp
+KAROLLINY;62;F;Músico(ista);Porto Alegre;RS;-300.277;-512.287;Sim;Telefone
+OSNEIA;55;F;Estagiário(a);Vila Velha;ES;-203.305;-402.922;Sim;Telefone
+OSMILTON;58;M;Desenvolvedor(a);Londrina;PR;-232.927;-511.732;Sim;Telefone
+WEMESSON;38;M;Músico(ista);Santo André;SP;-236.666;-465.322;Sim;Whatapp
+CARLEANI;44;F;Redator(a);Santo André;SP;-236.666;-465.322;Não;Whatapp
+SUEDI;17;F;Redator(a);Porto Alegre;RS;-300.277;-512.287;Sim;Email
+SUEDA;63;F;Desenvolvedor(a);Vila Velha;ES;-203.305;-402.922;Sim;Telefone
+MARIDEUSA;66;F;Advogado(a);Londrina;PR;-232.927;-511.732;Não;Telefone
+WESLLANE;56;F;Advogado(a);Salvador;BA;-1.297.111;-385.124;Não;Telefone
+OSNAIR;38;M;Enfermeiro(a);São Paulo;SP;-235.489;-466.388;Sim;Whatapp
+WESLE;47;M;Desempregado(a);Guarulhos;SP;-23.413;-464.445;Não;Whatapp
+BELMIRIO;30;M;Enfermeiro(a);Curitiba;PR;-254.284;-492.733;Sim;Whatapp
+SUELAINE;65;F;Desenvolvedor(a);Manaus;AM;-310.719;-600.261;Não;Telefone
+SID;67;F;Desenvolvedor(a);Guarulhos;SP;-23.413;-464.445;Não;Telefone
+SUZIANE;41;F;Desempregado(a);Curitiba;PR;-254.284;-492.733;Sim;Whatapp
+WEMERTON;45;M;Médico(a);Maceió;AL;-966.625;-357.351;Sim;Whatapp
+WEMERSON;64;M;Advogado(a);Pelotas;RS;-31.776;-523.594;Sim;Telefone
+OSVALDINA;56;F;Enfermeiro(a);Olinda;PE;-800.937;-348.553;Não;Telefone
+OSNIL;66;M;Músico(ista);Maceió;AL;-966.625;-357.351;Sim;Telefone
+ERIQUI;51;M;Desenvolvedor(a);Manaus;AM;-310.719;-600.261;Não;Telefone
+WILZA;36;F;Médico(a);Londrina;PR;-232.927;-511.732;Sim;Whatapp
+ABDER;50;M;Médico(a);Curitiba;PR;-254.284;-492.733;Não;Telefone
+SUZELI;55;F;Desenvolvedor(a);São Luís;MA;-253.073;-443.068;Não;Telefone
+CAROLINA;38;F;Desenvolvedor(a);Rio Branco;AC;-9.974;  -67.81;Sim;Whatapp
+OSVANILTON;20;M;Engenheiro(a);Curitiba;PR;-254.284;-492.733;Sim;Whatapp
+OSVALNIR;68;M;Professor(a);São Luís;MA;-253.073;-443.068;Não;Telefone
+CAROLLINE;26;F;Enfermeiro(a);Belo Horizonte;MG;-19.912.998;-439.542;Sim;Whatapp
+SUZILENE;35;F;Enfermeiro(a);Confins;MG;-19.631;-439.902;Sim;Whatapp
+ALEMIR;35;F;Desempregado(a);Fortaleza;CE;-371.839;-385.434;Sim;Whatapp
+MARIDES;24;F;Desenvolvedor(a);São Paulo;SP;-235.489;-466.388;Sim;Whatapp
+WESLEY;69;M;Desempregado(a);Fortaleza;CE;-371.839;-385.434;Sim;Telefone
+ERIS;66;M;Advogado(a);Maceió;AL;-966.625;-357.351;Não;Telefone
+CAROLAINE;57;F;Desenvolvedor(a);Vila Velha;ES;-203.305;-402.922;Sim;Telefone
+ERISON;56;M;Desenvolvedor(a);Cuiabá;MT;-155.989;-560.949;Sim;Telefone
+GEROLINO;42;M;Músico(ista);Maceió;AL;-966.625;-357.351;Não;Whatapp
+GISLENE;18;F;Desempregado(a);Vila Velha;ES;-203.305;-402.922;Não;Email
+GILSO;15;M;Enfermeiro(a);Florianópolis;SC;-275.969;-485.495;Sim;Email
+SUEDES;57;M;Professor(a);Olinda;PE;-800.937;-348.553;Sim;Telefone
+OSVALDINO;30;M;Advogado(a);Santo André;SP;-236.666;-465.322;Sim;Whatapp
+KAROLLAINY;28;F;Médico(a);Pelotas;RS;-31.776;-523.594;Não;Whatapp
+OSMIN;24;M;Autônomo(a);Belo Horizonte;MG;-19.912.998;-439.542;Sim;Whatapp
+ZEINE;70;F;Médico(a);São Luís;MA;-253.073;-443.068;Sim;Telefone
+CAROLINI;24;F;Advogado(a);Guarulhos;SP;-23.413;-464.445;Não;Whatapp
+SUZELAINE;26;F;Desenvolvedor(a);Porto Alegre;RS;-300.277;-512.287;Não;Whatapp
+ERLANDA;30;F;Desenvolvedor(a);Pelotas;RS;-31.776;-523.594;Sim;Whatapp
+CARLENI;61;F;Engenheiro(a);Salvador;BA;-1.297.111;-385.124;Sim;Telefone
+GILSON;48;M;Médico(a);Belo Horizonte;MG;-19.912.998;-439.542;Não;Whatapp
+CARLEIDE;36;F;Engenheiro(a);Londrina;PR;-232.927;-511.732;Sim;Whatapp
+CAROL;63;M;Desenvolvedor(a);Goiânia;GO;-1.682.333;-49.255;Sim;Telefone
+MARIDELZA;39;F;Desenvolvedor(a);Pelotas;RS;-31.776;-523.594;Sim;Whatapp
+ERLAN;37;M;Advogado(a);Florianópolis;SC;-275.969;-485.495;Sim;Whatapp
+WESLEY;41;M;Desempregado(a);Ponta Grossa;PR;-250.945;-501.633;Sim;Whatapp
+KARISIA;55;F;Desenvolvedor(a);Olinda;PE;-800.937;-348.553;Sim;Telefone
+MARIEIDE;30;F;Desenvolvedor(a);Belo Horizonte;MG;-19.912.998;-439.542;Não;Whatapp
+OSVANILDA;34;F;Advogado(a);Goiânia;GO;-1.682.333;-49.255;Não;Whatapp
+WESLLEY;22;M;Professor(a);Guarulhos;SP;-23.413;-464.445;Sim;Whatapp
+ROMULO;65;M;Advogado(a);Salvador;BA;-1.297.111;-385.124;Não;Telefone
+CARLAN;20;M;Desenvolvedor(a);Confins;MG;-19.631;-439.902;Sim;Whatapp
+OSVIN;42;M;Autônomo(a);Goiânia;GO;-1.682.333;-49.255;Sim;Whatapp
+MARICI;65;F;Desenvolvedor(a);Manaus;AM;-310.719;-600.261;Sim;Telefone
+WEMERSSON;40;M;Desenvolvedor(a);Belo Horizonte;MG;-19.912.998;-439.542;Sim;Whatapp
+ABDENEGO;22;M;Médico(a);Pelotas;RS;-31.776;-523.594;Sim;Whatapp
+GISANE;39;F;Advogado(a);São Luís;MA;-253.073;-443.068;Não;Whatapp
+MARIDEIA;53;F;Desenvolvedor(a);São Paulo;SP;-235.489;-466.388;Não;Telefone
+OSMUNDO;41;M;Estagiário(a);Manaus;AM;-310.719;-600.261;Sim;Whatapp
+GEISIANE;45;F;Desenvolvedor(a);São Luís;MA;-253.073;-443.068;Sim;Whatapp
+ERIQUE;32;M;Médico(a);Salvador;BA;-1.297.111;-385.124;Sim;Whatapp
+WEMISON;35;M;Advogado(a);Londrina;PR;-232.927;-511.732;Não;Whatapp
+GELSI;53;F;Desenvolvedor(a);Belo Horizonte;MG;-19.912.998;-439.542;Não;Telefone
+ERITON;44;M;Engenheiro(a);Curitiba;PR;-254.284;-492.733;Sim;Whatapp
+WESLIN;33;M;Enfermeiro(a);Belo Horizonte;MG;-19.912.998;-439.542;Não;Whatapp
+OSVANETE;61;F;Desenvolvedor(a);Florianópolis;SC;-275.969;-485.495;Sim;Telefone
+MARICRUZ;38;F;Professor(a);Guarulhos;SP;-23.413;-464.445;Sim;Whatapp
+ARON;40;M;Enfermeiro(a);Curitiba;PR;-254.284;-492.733;Sim;Whatapp
+WESLIA;54;F;Advogado(a);São Luís;MA;-253.073;-443.068;Não;Telefone
+SUZIELEN;62;F;Desenvolvedor(a);Florianópolis;SC;-275.969;-485.495;Não;Telefone
